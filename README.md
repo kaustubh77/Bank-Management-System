@@ -1,0 +1,2 @@
+# Bank-Management-System
+This is project takes user input from an excel spreadsheet and creates accounts according to the information provided (Name,Account type, Initial balance,etc) and also assigns a unique SSN number and Account number (as per the rules followed in the banks)  to an account. An interface is also provided to get the rate of interest from a third party institution like for example RBI.
